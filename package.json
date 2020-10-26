@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-app",
+  "version": "1.0.0",
+  "description": "nuxt Example by Tony 2020-10-25",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwdpaley/nuxtapp.git"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "author": "Tony huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwdpaley/nuxtapp/issues"
+  },
+  "homepage": "https://github.com/hwdpaley/nuxtapp#readme",
+  "devDependencies": {
+    "nuxt": "^2.14.7"
+  }
+}
